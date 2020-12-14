@@ -1,0 +1,1295 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Mexico Travel Channel">
+    <display-name lang="es">Mexico Travel Channel</display-name>
+    <url>http://www.mexicotravelchannel.com.mx</url>
+  </channel>
+  <channel id="Canal Mexiquense TV">
+    <display-name lang="es">Mexiquense TV</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mexiquense_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Foro TV">
+    <display-name lang="es">Foro TV</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ADN 40">
+    <display-name lang="es">ADN 40</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Telefórmula">
+    <display-name lang="es">Telefórmula</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/teleformula-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Milenio TV">
+    <display-name lang="es">Milenio TV</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/milenio_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Once TV - México (XEIPN-TV)">
+    <display-name lang="es">Canal Once</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Multimedios Plus">
+    <display-name lang="es">Canal Multimedios Plus</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201214030000 -0600" stop="20201214050000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201214050000 -0600" stop="20201214060000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201214060000 -0600" stop="20201214061500 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Himno Nacional</title>
+  </programme>
+  <programme start="20201214061500 -0600" stop="20201214063000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Noticias en Fa</title>
+  </programme>
+  <programme start="20201214063000 -0600" stop="20201214073000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">AMX con José Luis Arévalo</title>
+  </programme>
+  <programme start="20201214073000 -0600" stop="20201214080000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Atrévete por ti</title>
+  </programme>
+  <programme start="20201214080000 -0600" stop="20201214100000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Emociónate</title>
+  </programme>
+  <programme start="20201214100000 -0600" stop="20201214103000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Porque soy mujer</title>
+  </programme>
+  <programme start="20201214103000 -0600" stop="20201214110000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Bionatura</title>
+  </programme>
+  <programme start="20201214110000 -0600" stop="20201214130000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Pelicula del Cine Mexicano</title>
+  </programme>
+  <programme start="20201214130000 -0600" stop="20201214133000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Enjambre universitario</title>
+  </programme>
+  <programme start="20201214133000 -0600" stop="20201214150000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Bim Bam Bum</title>
+  </programme>
+  <programme start="20201214150000 -0600" stop="20201214160000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">AMX con Kimberly Armengol</title>
+  </programme>
+  <programme start="20201214160000 -0600" stop="20201214170000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">AMX Cultura</title>
+  </programme>
+  <programme start="20201214170000 -0600" stop="20201214180000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Noticias en Hora Buena</title>
+  </programme>
+  <programme start="20201214180000 -0600" stop="20201214190000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Genio y Figura</title>
+  </programme>
+  <programme start="20201214190000 -0600" stop="20201214200000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Otro Stylo para Cocinar</title>
+  </programme>
+  <programme start="20201214200000 -0600" stop="20201214210000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Cóncavo y Consexo</title>
+  </programme>
+  <programme start="20201214210000 -0600" stop="20201214220000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">AMX con Carlos González</title>
+  </programme>
+  <programme start="20201214220000 -0600" stop="20201214230000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">En la cima con Roa</title>
+  </programme>
+  <programme start="20201214230000 -0600" stop="20201215000500 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Historias del Más Allá</title>
+  </programme>
+  <programme start="20201215230000 -0600" stop="20201216000500 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Historias del Más Allá</title>
+  </programme>
+  <programme start="20201216000500 -0600" stop="20201216020000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Pelicula del Cine Mexicano</title>
+  </programme>
+  <programme start="20201216020000 -0600" stop="20201216060000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201216130000 -0600" stop="20201216133000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">¡Escápate</title>
+  </programme>
+  <programme start="20201216170000 -0600" stop="20201216180000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Noticias en Hora Buena</title>
+  </programme>
+  <programme start="20201216180000 -0600" stop="20201216190000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Escuela para padres</title>
+  </programme>
+  <programme start="20201216190000 -0600" stop="20201216200000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Nuestra Chamba</title>
+  </programme>
+  <programme start="20201216200000 -0600" stop="20201216210000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Mirada Global</title>
+  </programme>
+  <programme start="20201216220000 -0600" stop="20201216230000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Los colores de mi tierra</title>
+  </programme>
+  <programme start="20201217130000 -0600" stop="20201217133000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">La lista de Erick</title>
+  </programme>
+  <programme start="20201217180000 -0600" stop="20201217190000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Pasión por el sabor</title>
+  </programme>
+  <programme start="20201217190000 -0600" stop="20201217200000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Profesión Héroe</title>
+  </programme>
+  <programme start="20201217200000 -0600" stop="20201217210000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Retuit TV</title>
+  </programme>
+  <programme start="20201217220000 -0600" stop="20201217230000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">La Zona</title>
+  </programme>
+  <programme start="20201218020000 -0600" stop="20201218043000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201218043000 -0600" stop="20201218060000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201218060000 -0600" stop="20201218061500 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Himno Nacional</title>
+  </programme>
+  <programme start="20201218061500 -0600" stop="20201218063000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Noticias en Fa</title>
+  </programme>
+  <programme start="20201218063000 -0600" stop="20201218073000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">AMX con José Luis Arévalo</title>
+  </programme>
+  <programme start="20201218073000 -0600" stop="20201218080000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Atrévete por ti</title>
+  </programme>
+  <programme start="20201218080000 -0600" stop="20201218100000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Emociónate</title>
+  </programme>
+  <programme start="20201218100000 -0600" stop="20201218103000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Porque soy mujer</title>
+  </programme>
+  <programme start="20201218103000 -0600" stop="20201218110000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Bionatura</title>
+  </programme>
+  <programme start="20201218110000 -0600" stop="20201218130000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Pelicula del Cine Mexicano</title>
+  </programme>
+  <programme start="20201218130000 -0600" stop="20201218133000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Enjambre universitario</title>
+  </programme>
+  <programme start="20201218133000 -0600" stop="20201218150000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Bim Bam Bum</title>
+  </programme>
+  <programme start="20201218150000 -0600" stop="20201218160000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">AMX con Kimberly Armengol</title>
+  </programme>
+  <programme start="20201218160000 -0600" stop="20201218170000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">AMX Cultura</title>
+  </programme>
+  <programme start="20201218170000 -0600" stop="20201218180000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Noticias en Hora Buena</title>
+  </programme>
+  <programme start="20201218180000 -0600" stop="20201218190000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Destino Verde</title>
+  </programme>
+  <programme start="20201218190000 -0600" stop="20201218200000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Salud en Casa</title>
+  </programme>
+  <programme start="20201218200000 -0600" stop="20201218210000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Cinescape</title>
+  </programme>
+  <programme start="20201218210000 -0600" stop="20201218220000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">AMX con Carlos González</title>
+  </programme>
+  <programme start="20201218220000 -0600" stop="20201218230000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">100% Grupero</title>
+  </programme>
+  <programme start="20201219020000 -0600" stop="20201219050000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201219050000 -0600" stop="20201219060000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201219130000 -0600" stop="20201219133000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20201219180000 -0600" stop="20201219190000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Las mil y una notas</title>
+  </programme>
+  <programme start="20201219190000 -0600" stop="20201219200000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Experiencia EdoMex</title>
+  </programme>
+  <programme start="20201219200000 -0600" stop="20201219210000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Charrería?lo nuestro</title>
+  </programme>
+  <programme start="20201219220000 -0600" stop="20201219230000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Noches en vela</title>
+  </programme>
+  <programme start="20201219230000 -0600" stop="20201220000500 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Pelicula del Cine Mexicano</title>
+  </programme>
+  <programme start="20201220020000 -0600" stop="20201220040000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201220040000 -0600" stop="20201220060000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201220060000 -0600" stop="20201220061500 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201220061500 -0600" stop="20201220063000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Patrimonio mundial</title>
+  </programme>
+  <programme start="20201220063000 -0600" stop="20201220070000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Historias con sabor</title>
+  </programme>
+  <programme start="20201220070000 -0600" stop="20201220073000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Fuerza latina</title>
+  </programme>
+  <programme start="20201220080000 -0600" stop="20201220083000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Monstruos en Red</title>
+  </programme>
+  <programme start="20201220083000 -0600" stop="20201220090000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Somos México</title>
+  </programme>
+  <programme start="20201220090000 -0600" stop="20201220100000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Diablos Rojos TV</title>
+  </programme>
+  <programme start="20201220100000 -0600" stop="20201220110000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Otro Stylo para Cocinar</title>
+  </programme>
+  <programme start="20201220110000 -0600" stop="20201220120000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Bionatura</title>
+  </programme>
+  <programme start="20201220120000 -0600" stop="20201220130000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Concierto OSEM</title>
+  </programme>
+  <programme start="20201220130000 -0600" stop="20201220140000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Misa Dia de la Virgen</title>
+  </programme>
+  <programme start="20201220140000 -0600" stop="20201220141500 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Imagen magisterial</title>
+  </programme>
+  <programme start="20201220141500 -0600" stop="20201220143000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Fuerza TV</title>
+  </programme>
+  <programme start="20201220143000 -0600" stop="20201220150000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Mobil1</title>
+  </programme>
+  <programme start="20201220150000 -0600" stop="20201220160000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Profesión Héroe</title>
+  </programme>
+  <programme start="20201220160000 -0600" stop="20201220170000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Salud en Casa</title>
+  </programme>
+  <programme start="20201220170000 -0600" stop="20201220180000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Nuestra Chamba</title>
+  </programme>
+  <programme start="20201220180000 -0600" stop="20201220190000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Ver y creer</title>
+  </programme>
+  <programme start="20201220190000 -0600" stop="20201220200000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Genio y Figura</title>
+  </programme>
+  <programme start="20201220200000 -0600" stop="20201220220000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Su casa EDOMEX</title>
+  </programme>
+  <programme start="20201220220000 -0600" stop="20201220221500 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Parejas</title>
+  </programme>
+  <programme start="20201220221500 -0600" stop="20201220230000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">100% Grupero</title>
+  </programme>
+  <programme start="20201220230000 -0600" stop="20201221000000 -0600" channel="Canal Mexiquense TV">
+    <title lang="es">Mirada Global</title>
+  </programme>
+  <programme start="20201214010000 -0600" stop="20201214030000 -0600" channel="Canal Foro TV">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201214030000 -0600" stop="20201214050000 -0600" channel="Canal Foro TV">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201214050000 -0600" stop="20201214060000 -0600" channel="Canal Foro TV">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201214060000 -0600" stop="20201214070000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201214070000 -0600" stop="20201214080000 -0600" channel="Canal Foro TV">
+    <title lang="es">Estrictamente Personal</title>
+  </programme>
+  <programme start="20201214080000 -0600" stop="20201214110000 -0600" channel="Canal Foro TV">
+    <title lang="es">Expreso de la Mañana</title>
+  </programme>
+  <programme start="20201214110000 -0600" stop="20201214120000 -0600" channel="Canal Foro TV">
+    <title lang="es">Por las mañanas</title>
+  </programme>
+  <programme start="20201214120000 -0600" stop="20201214130000 -0600" channel="Canal Foro TV">
+    <title lang="es">Paralelo 23</title>
+  </programme>
+  <programme start="20201214130000 -0600" stop="20201214140000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las Noticias de las 1300 hrs</title>
+  </programme>
+  <programme start="20201214140000 -0600" stop="20201214150000 -0600" channel="Canal Foro TV">
+    <title lang="es">Noticias MX</title>
+  </programme>
+  <programme start="20201214150000 -0600" stop="20201214160000 -0600" channel="Canal Foro TV">
+    <title lang="es">A las 3</title>
+  </programme>
+  <programme start="20201214160000 -0600" stop="20201214180000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201214180000 -0600" stop="20201214210000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201214210000 -0600" stop="20201214220000 -0600" channel="Canal Foro TV">
+    <title lang="es">Hora 21</title>
+  </programme>
+  <programme start="20201214220000 -0600" stop="20201214230000 -0600" channel="Canal Foro TV">
+    <title lang="es">Es la Hora de Opinar</title>
+  </programme>
+  <programme start="20201214230000 -0600" stop="20201215000000 -0600" channel="Canal Foro TV">
+    <title lang="es">Punto y Contrapunto</title>
+  </programme>
+  <programme start="20201215000000 -0600" stop="20201215013000 -0600" channel="Canal Foro TV">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201215013000 -0600" stop="20201215020000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201215020000 -0600" stop="20201215023000 -0600" channel="Canal Foro TV">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20201215023000 -0600" stop="20201215033000 -0600" channel="Canal Foro TV">
+    <title lang="es">Es la Hora de Opinar</title>
+  </programme>
+  <programme start="20201215033000 -0600" stop="20201215060000 -0600" channel="Canal Foro TV">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201215060000 -0600" stop="20201215070000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201215070000 -0600" stop="20201215080000 -0600" channel="Canal Foro TV">
+    <title lang="es">Estrictamente Personal</title>
+  </programme>
+  <programme start="20201215080000 -0600" stop="20201215110000 -0600" channel="Canal Foro TV">
+    <title lang="es">Expreso de la Mañana</title>
+  </programme>
+  <programme start="20201215110000 -0600" stop="20201215120000 -0600" channel="Canal Foro TV">
+    <title lang="es">Por las mañanas</title>
+  </programme>
+  <programme start="20201215120000 -0600" stop="20201215130000 -0600" channel="Canal Foro TV">
+    <title lang="es">Paralelo 23</title>
+  </programme>
+  <programme start="20201215130000 -0600" stop="20201215140000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las Noticias de las 1300 hrs</title>
+  </programme>
+  <programme start="20201215140000 -0600" stop="20201215150000 -0600" channel="Canal Foro TV">
+    <title lang="es">Noticias MX</title>
+  </programme>
+  <programme start="20201215150000 -0600" stop="20201215160000 -0600" channel="Canal Foro TV">
+    <title lang="es">A las 3</title>
+  </programme>
+  <programme start="20201215160000 -0600" stop="20201215180000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201215180000 -0600" stop="20201215200000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201215200000 -0600" stop="20201215210000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201216000000 -0600" stop="20201216010000 -0600" channel="Canal Foro TV">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201216010000 -0600" stop="20201216013000 -0600" channel="Canal Foro TV">
+    <title lang="es">Retomando a</title>
+  </programme>
+  <programme start="20201216013000 -0600" stop="20201216020000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201216020000 -0600" stop="20201216023000 -0600" channel="Canal Foro TV">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20201216023000 -0600" stop="20201216033000 -0600" channel="Canal Foro TV">
+    <title lang="es">Es la Hora de Opinar</title>
+  </programme>
+  <programme start="20201216033000 -0600" stop="20201216060000 -0600" channel="Canal Foro TV">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201216160000 -0600" stop="20201216180000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201216180000 -0600" stop="20201216200000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201216200000 -0600" stop="20201216210000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201216210000 -0600" stop="20201216220000 -0600" channel="Canal Foro TV">
+    <title lang="es">Hora 21</title>
+  </programme>
+  <programme start="20201216220000 -0600" stop="20201216230000 -0600" channel="Canal Foro TV">
+    <title lang="es">Es la Hora de Opinar</title>
+  </programme>
+  <programme start="20201216230000 -0600" stop="20201217000000 -0600" channel="Canal Foro TV">
+    <title lang="es">Punto y Contrapunto</title>
+  </programme>
+  <programme start="20201217023000 -0600" stop="20201217030000 -0600" channel="Canal Foro TV">
+    <title lang="es">Creadores Universitarios</title>
+  </programme>
+  <programme start="20201217030000 -0600" stop="20201217033000 -0600" channel="Canal Foro TV">
+    <title lang="es">Fractal</title>
+  </programme>
+  <programme start="20201217033000 -0600" stop="20201217040000 -0600" channel="Canal Foro TV">
+    <title lang="es">Creadores Universitarios</title>
+  </programme>
+  <programme start="20201217040000 -0600" stop="20201217050000 -0600" channel="Canal Foro TV">
+    <title lang="es">Es la Hora de Opinar</title>
+  </programme>
+  <programme start="20201217070000 -0600" stop="20201217080000 -0600" channel="Canal Foro TV">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201217080000 -0600" stop="20201217120000 -0600" channel="Canal Foro TV">
+    <title lang="es">Sábados de Foro</title>
+  </programme>
+  <programme start="20201217120000 -0600" stop="20201217123000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201217123000 -0600" stop="20201217130000 -0600" channel="Canal Foro TV">
+    <title lang="es">Cuide su Salud</title>
+  </programme>
+  <programme start="20201217130000 -0600" stop="20201217133000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201217133000 -0600" stop="20201217140000 -0600" channel="Canal Foro TV">
+    <title lang="es">Cuide su Salud</title>
+  </programme>
+  <programme start="20201217140000 -0600" stop="20201217143000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201217143000 -0600" stop="20201217150000 -0600" channel="Canal Foro TV">
+    <title lang="es">Cuide su Salud</title>
+  </programme>
+  <programme start="20201217150000 -0600" stop="20201217163000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201217163000 -0600" stop="20201217170000 -0600" channel="Canal Foro TV">
+    <title lang="es">Cuide su Salud</title>
+  </programme>
+  <programme start="20201217170000 -0600" stop="20201217173000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201217173000 -0600" stop="20201217180000 -0600" channel="Canal Foro TV">
+    <title lang="es">Foro TV</title>
+  </programme>
+  <programme start="20201217180000 -0600" stop="20201217183000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201217183000 -0600" stop="20201217190000 -0600" channel="Canal Foro TV">
+    <title lang="es">Creadores Universitarios</title>
+  </programme>
+  <programme start="20201217190000 -0600" stop="20201217220000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201217220000 -0600" stop="20201217230000 -0600" channel="Canal Foro TV">
+    <title lang="es">Clío TV</title>
+  </programme>
+  <programme start="20201217230000 -0600" stop="20201218000000 -0600" channel="Canal Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201214010000 -0600" stop="20201214050000 -0600" channel="Canal ADN 40">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201214050000 -0600" stop="20201214053000 -0600" channel="Canal ADN 40">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201214053000 -0600" stop="20201214070000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias para despertar</title>
+  </programme>
+  <programme start="20201214070000 -0600" stop="20201214080000 -0600" channel="Canal ADN 40">
+    <title lang="es">Así Amanece Leonardo Curzio</title>
+  </programme>
+  <programme start="20201214080000 -0600" stop="20201214100000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es de Mañana con Mónica Garza</title>
+  </programme>
+  <programme start="20201214100000 -0600" stop="20201214110000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias con Vaitiare Mateos</title>
+  </programme>
+  <programme start="20201214110000 -0600" stop="20201214120000 -0600" channel="Canal ADN 40">
+    <title lang="es">Tu Mundo en Tiempo Real</title>
+  </programme>
+  <programme start="20201214120000 -0600" stop="20201214130000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias con Lucy Bravo</title>
+  </programme>
+  <programme start="20201214130000 -0600" stop="20201214150000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40 en Línea</title>
+  </programme>
+  <programme start="20201214150000 -0600" stop="20201214160000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Tendencia</title>
+  </programme>
+  <programme start="20201214160000 -0600" stop="20201214170000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias con Romina Ramos</title>
+  </programme>
+  <programme start="20201214170000 -0600" stop="20201214180000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias Luciana Wainer</title>
+  </programme>
+  <programme start="20201214180000 -0600" stop="20201214190000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias Valentina Rodríguez</title>
+  </programme>
+  <programme start="20201214190000 -0600" stop="20201214200000 -0600" channel="Canal ADN 40">
+    <title lang="es">Tu Ciudad en Tiempo Real</title>
+  </programme>
+  <programme start="20201214200000 -0600" stop="20201214210000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias con Alejandro Brofft</title>
+  </programme>
+  <programme start="20201214210000 -0600" stop="20201214220000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Noticia con Hannia Novell</title>
+  </programme>
+  <programme start="20201214220000 -0600" stop="20201214230000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias Republica MX</title>
+  </programme>
+  <programme start="20201214230000 -0600" stop="20201214233000 -0600" channel="Canal ADN 40">
+    <title lang="es">Todo Personal</title>
+  </programme>
+  <programme start="20201214233000 -0600" stop="20201214234500 -0600" channel="Canal ADN 40">
+    <title lang="es">Primer Círculo</title>
+  </programme>
+  <programme start="20201214234500 -0600" stop="20201215000000 -0600" channel="Canal ADN 40">
+    <title lang="es">La billetera</title>
+  </programme>
+  <programme start="20201215000000 -0600" stop="20201215010000 -0600" channel="Canal ADN 40">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20201215010000 -0600" stop="20201215023000 -0600" channel="Canal ADN 40">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201215023000 -0600" stop="20201215033000 -0600" channel="Canal ADN 40">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20201215033000 -0600" stop="20201215050000 -0600" channel="Canal ADN 40">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201215050000 -0600" stop="20201215053000 -0600" channel="Canal ADN 40">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20201215150000 -0600" stop="20201215160000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Tendencia con Juan Pablo de</title>
+  </programme>
+  <programme start="20201215170000 -0600" stop="20201215180000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias Luciana Wainer</title>
+  </programme>
+  <programme start="20201215200000 -0600" stop="20201215220000 -0600" channel="Canal ADN 40">
+    <title lang="es">Casa Blanca 2020</title>
+  </programme>
+  <programme start="20201215220000 -0600" stop="20201215230000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias Republica MX</title>
+  </programme>
+  <programme start="20201215230000 -0600" stop="20201215233000 -0600" channel="Canal ADN 40">
+    <title lang="es">Todo Personal</title>
+  </programme>
+  <programme start="20201215233000 -0600" stop="20201215234500 -0600" channel="Canal ADN 40">
+    <title lang="es">La entrevista con Sarmiento</title>
+  </programme>
+  <programme start="20201215234500 -0600" stop="20201216000000 -0600" channel="Canal ADN 40">
+    <title lang="es">Nombres Nombres y Nombres</title>
+  </programme>
+  <programme start="20201216000000 -0600" stop="20201216003000 -0600" channel="Canal ADN 40">
+    <title lang="es">México bravo</title>
+  </programme>
+  <programme start="20201216003000 -0600" stop="20201216010000 -0600" channel="Canal ADN 40">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20201216010000 -0600" stop="20201216050000 -0600" channel="Canal ADN 40">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201216050000 -0600" stop="20201216053000 -0600" channel="Canal ADN 40">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20201216053000 -0600" stop="20201216070000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias para despertar</title>
+  </programme>
+  <programme start="20201216070000 -0600" stop="20201216080000 -0600" channel="Canal ADN 40">
+    <title lang="es">Así Amanece Leonardo Curzio</title>
+  </programme>
+  <programme start="20201216080000 -0600" stop="20201216100000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es de Mañana con Mónica Garza</title>
+  </programme>
+  <programme start="20201216100000 -0600" stop="20201216110000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias con Vaitiare Mateos</title>
+  </programme>
+  <programme start="20201216110000 -0600" stop="20201216120000 -0600" channel="Canal ADN 40">
+    <title lang="es">Tu Mundo en Tiempo Real</title>
+  </programme>
+  <programme start="20201216120000 -0600" stop="20201216130000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias con Lucy Bravo</title>
+  </programme>
+  <programme start="20201216130000 -0600" stop="20201216150000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40 en Línea</title>
+  </programme>
+  <programme start="20201216150000 -0600" stop="20201216160000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Tendencia</title>
+  </programme>
+  <programme start="20201216160000 -0600" stop="20201216170000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias con Romina Ramos</title>
+  </programme>
+  <programme start="20201216170000 -0600" stop="20201216180000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias Luciana Wainer</title>
+  </programme>
+  <programme start="20201216180000 -0600" stop="20201216190000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias Valentina Rodríguez</title>
+  </programme>
+  <programme start="20201216190000 -0600" stop="20201216200000 -0600" channel="Canal ADN 40">
+    <title lang="es">Tu Ciudad en Tiempo Real</title>
+  </programme>
+  <programme start="20201216200000 -0600" stop="20201216210000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias con Alejandro Brofft</title>
+  </programme>
+  <programme start="20201216210000 -0600" stop="20201216220000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Noticia con Hannia Novell</title>
+  </programme>
+  <programme start="20201216233000 -0600" stop="20201216234500 -0600" channel="Canal ADN 40">
+    <title lang="es">Reporte ADN 40</title>
+  </programme>
+  <programme start="20201216234500 -0600" stop="20201217000000 -0600" channel="Canal ADN 40">
+    <title lang="es">Índice Económico</title>
+  </programme>
+  <programme start="20201217000000 -0600" stop="20201217013000 -0600" channel="Canal ADN 40">
+    <title lang="es">La era de las definiciones</title>
+  </programme>
+  <programme start="20201217013000 -0600" stop="20201217040000 -0600" channel="Canal ADN 40">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201217040000 -0600" stop="20201217050000 -0600" channel="Canal ADN 40">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201217233000 -0600" stop="20201218000000 -0600" channel="Canal ADN 40">
+    <title lang="es">Desde las Cámaras</title>
+  </programme>
+  <programme start="20201218000000 -0600" stop="20201218003000 -0600" channel="Canal ADN 40">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201218010000 -0600" stop="20201218023000 -0600" channel="Canal ADN 40">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201218023000 -0600" stop="20201218033000 -0600" channel="Canal ADN 40">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20201218033000 -0600" stop="20201218050000 -0600" channel="Canal ADN 40">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201218233000 -0600" stop="20201218234500 -0600" channel="Canal ADN 40">
+    <title lang="es">Al filo</title>
+  </programme>
+  <programme start="20201218234500 -0600" stop="20201219000000 -0600" channel="Canal ADN 40">
+    <title lang="es">La de 8</title>
+  </programme>
+  <programme start="20201219053000 -0600" stop="20201219080000 -0600" channel="Canal ADN 40">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201219080000 -0600" stop="20201219100000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es de Mañana con Max Espejel</title>
+  </programme>
+  <programme start="20201219100000 -0600" stop="20201219110000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias con Óscar Hernández</title>
+  </programme>
+  <programme start="20201219110000 -0600" stop="20201219120000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias de Ida y Vuelta</title>
+  </programme>
+  <programme start="20201219120000 -0600" stop="20201219130000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias con Óscar Hernández</title>
+  </programme>
+  <programme start="20201219130000 -0600" stop="20201219140000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias de Ida y Vuelta</title>
+  </programme>
+  <programme start="20201219140000 -0600" stop="20201219150000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Tendencia con Max Espejel</title>
+  </programme>
+  <programme start="20201219150000 -0600" stop="20201219160000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias de Ida y Vuelta</title>
+  </programme>
+  <programme start="20201219160000 -0600" stop="20201219170000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Tendencia con Max Espejel</title>
+  </programme>
+  <programme start="20201219170000 -0600" stop="20201219180000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias de Ida y Vuelta</title>
+  </programme>
+  <programme start="20201219180000 -0600" stop="20201219190000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias Jorge Armando Rocha</title>
+  </programme>
+  <programme start="20201219190000 -0600" stop="20201219191500 -0600" channel="Canal ADN 40">
+    <title lang="es">No hay lugar común</title>
+  </programme>
+  <programme start="20201219191500 -0600" stop="20201219193000 -0600" channel="Canal ADN 40">
+    <title lang="es">Ahora, Futuro México y el Mund</title>
+  </programme>
+  <programme start="20201219193000 -0600" stop="20201219200000 -0600" channel="Canal ADN 40">
+    <title lang="es">Yo también soy mexicano</title>
+  </programme>
+  <programme start="20201219200000 -0600" stop="20201219210000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Noticia con Jorge A. Rocha</title>
+  </programme>
+  <programme start="20201219210000 -0600" stop="20201219220000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN Deportes</title>
+  </programme>
+  <programme start="20201219220000 -0600" stop="20201220000000 -0600" channel="Canal ADN 40">
+    <title lang="es">Farandula 40</title>
+  </programme>
+  <programme start="20201214010000 -0600" stop="20201214020000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Shanik en Fórmula</title>
+  </programme>
+  <programme start="20201214020000 -0600" stop="20201214030000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Fórmula Notas Matilde Obregon</title>
+  </programme>
+  <programme start="20201214030000 -0600" stop="20201214040000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Fórmula Dominical Flor Rubio</title>
+  </programme>
+  <programme start="20201214040000 -0600" stop="20201214050000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Janett Arceo la mujer actual</title>
+  </programme>
+  <programme start="20201214050000 -0600" stop="20201214053000 -0600" channel="Canal Telefórmula">
+    <title lang="es">La Fórmula es...Domingo</title>
+  </programme>
+  <programme start="20201214053000 -0600" stop="20201214070000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Detrás de la noticia</title>
+  </programme>
+  <programme start="20201214070000 -0600" stop="20201214080000 -0600" channel="Canal Telefórmula">
+    <title lang="es">En los tiempos de la radio</title>
+  </programme>
+  <programme start="20201214080000 -0600" stop="20201214100000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Ciro Gomez Leyva</title>
+  </programme>
+  <programme start="20201214100000 -0600" stop="20201214110000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Javier Poza en Fórmula</title>
+  </programme>
+  <programme start="20201214110000 -0600" stop="20201214130000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Todo para la Mujer con Maxine</title>
+  </programme>
+  <programme start="20201214130000 -0600" stop="20201214133000 -0600" channel="Canal Telefórmula">
+    <title lang="es">La Radio de la República</title>
+  </programme>
+  <programme start="20201214133000 -0600" stop="20201214150000 -0600" channel="Canal Telefórmula">
+    <title lang="es">López Dóriga en Fórmula</title>
+  </programme>
+  <programme start="20201214150000 -0600" stop="20201214153000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Enrique Campos en Fórmula</title>
+  </programme>
+  <programme start="20201214153000 -0600" stop="20201214170000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Eduardo Ruiz Healy</title>
+  </programme>
+  <programme start="20201214170000 -0600" stop="20201214180000 -0600" channel="Canal Telefórmula">
+    <title lang="es">La Fórmula es... Orvañanos</title>
+  </programme>
+  <programme start="20201214180000 -0600" stop="20201214200000 -0600" channel="Canal Telefórmula">
+    <title lang="es">José Cárdenas informa</title>
+  </programme>
+  <programme start="20201214200000 -0600" stop="20201214210000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Leonardo Curzio en fórmula</title>
+  </programme>
+  <programme start="20201214210000 -0600" stop="20201214220000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Formula financiera</title>
+  </programme>
+  <programme start="20201214220000 -0600" stop="20201214230000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Noticias con Enrique Muñoz</title>
+  </programme>
+  <programme start="20201214230000 -0600" stop="20201215000000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Ricardo Rocha en Formula</title>
+  </programme>
+  <programme start="20201215010000 -0600" stop="20201215020000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Eduardo Ruiz Healy</title>
+  </programme>
+  <programme start="20201215020000 -0600" stop="20201215030000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Shanik en Fórmula</title>
+  </programme>
+  <programme start="20201215030000 -0600" stop="20201215043000 -0600" channel="Canal Telefórmula">
+    <title lang="es">José Cárdenas informa</title>
+  </programme>
+  <programme start="20201215043000 -0600" stop="20201215053000 -0600" channel="Canal Telefórmula">
+    <title lang="es">La Fórmula es...Orvañanos</title>
+  </programme>
+  <programme start="20201215053000 -0600" stop="20201215070000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Detrás de la noticia</title>
+  </programme>
+  <programme start="20201215070000 -0600" stop="20201215080000 -0600" channel="Canal Telefórmula">
+    <title lang="es">En los tiempos de la radio</title>
+  </programme>
+  <programme start="20201215080000 -0600" stop="20201215100000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Ciro Gomez Leyva</title>
+  </programme>
+  <programme start="20201215100000 -0600" stop="20201215110000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Javier Poza en Fórmula</title>
+  </programme>
+  <programme start="20201215110000 -0600" stop="20201215130000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Todo para la Mujer con Maxine</title>
+  </programme>
+  <programme start="20201215130000 -0600" stop="20201215133000 -0600" channel="Canal Telefórmula">
+    <title lang="es">La Radio de la República</title>
+  </programme>
+  <programme start="20201215133000 -0600" stop="20201215153000 -0600" channel="Canal Telefórmula">
+    <title lang="es">López Dóriga en Fórmula</title>
+  </programme>
+  <programme start="20201215170000 -0600" stop="20201215180000 -0600" channel="Canal Telefórmula">
+    <title lang="es">La Fórmula es... Orvañanos</title>
+  </programme>
+  <programme start="20201216170000 -0600" stop="20201216180000 -0600" channel="Canal Telefórmula">
+    <title lang="es">La Fórmula es...Orvañanos</title>
+  </programme>
+  <programme start="20201217010000 -0600" stop="20201217020000 -0600" channel="Canal Telefórmula">
+    <title lang="es">México Canta...y encanta</title>
+  </programme>
+  <programme start="20201217020000 -0600" stop="20201217030000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Eduardo Ruiz Healy</title>
+  </programme>
+  <programme start="20201217030000 -0600" stop="20201217050000 -0600" channel="Canal Telefórmula">
+    <title lang="es">José Cárdenas informa</title>
+  </programme>
+  <programme start="20201217050000 -0600" stop="20201217060000 -0600" channel="Canal Telefórmula">
+    <title lang="es">La Fórmula es...Orvañanos</title>
+  </programme>
+  <programme start="20201217060000 -0600" stop="20201217070000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Blitz con Ima Santoscoy</title>
+  </programme>
+  <programme start="20201217070000 -0600" stop="20201217100000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Fórmula Noticias con Jaime N</title>
+  </programme>
+  <programme start="20201217100000 -0600" stop="20201217103000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Efecto Mariposa</title>
+  </programme>
+  <programme start="20201217103000 -0600" stop="20201217110000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Itinerario Turistico</title>
+  </programme>
+  <programme start="20201217110000 -0600" stop="20201217120000 -0600" channel="Canal Telefórmula">
+    <title lang="es">De Mamá a Mamá</title>
+  </programme>
+  <programme start="20201217120000 -0600" stop="20201217130000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Javier Poza en Fórmula</title>
+  </programme>
+  <programme start="20201217130000 -0600" stop="20201217140000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Todo para la Mujer con Maxine</title>
+  </programme>
+  <programme start="20201217140000 -0600" stop="20201217150000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Formula Noticias</title>
+  </programme>
+  <programme start="20201217150000 -0600" stop="20201217170000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Estilo de vida</title>
+  </programme>
+  <programme start="20201217170000 -0600" stop="20201217180000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Contigo con Claudia Arellano</title>
+  </programme>
+  <programme start="20201217180000 -0600" stop="20201217190000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Formula Noticias</title>
+  </programme>
+  <programme start="20201217190000 -0600" stop="20201217200000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Dialogo Abierto</title>
+  </programme>
+  <programme start="20201217200000 -0600" stop="20201217210000 -0600" channel="Canal Telefórmula">
+    <title lang="es">En el Estudio de Eduardo</title>
+  </programme>
+  <programme start="20201217210000 -0600" stop="20201217220000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Javier Poza en Fórmula</title>
+  </programme>
+  <programme start="20201217220000 -0600" stop="20201217230000 -0600" channel="Canal Telefórmula">
+    <title lang="es">México Canta...y encanta</title>
+  </programme>
+  <programme start="20201217230000 -0600" stop="20201218000000 -0600" channel="Canal Telefórmula">
+    <title lang="es">Todo para la Mujer con Maxine</title>
+  </programme>
+  <programme start="20201214020000 -0600" stop="20201214040000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20201214040000 -0600" stop="20201214050000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20201214050000 -0600" stop="20201214060000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio Enrique Burgos</title>
+  </programme>
+  <programme start="20201214060000 -0600" stop="20201214080000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201214080000 -0600" stop="20201214100000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201214100000 -0600" stop="20201214104500 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201214104500 -0600" stop="20201214110000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio Mercados Perspectiva</title>
+  </programme>
+  <programme start="20201214110000 -0600" stop="20201214114500 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201214114500 -0600" stop="20201214120000 -0600" channel="Canal Milenio TV">
+    <title lang="es">El Arte de la Canción</title>
+  </programme>
+  <programme start="20201214120000 -0600" stop="20201214140000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Noticias con Josué Becerra</title>
+  </programme>
+  <programme start="20201214140000 -0600" stop="20201214160000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Noticias con Claudia Ovalle</title>
+  </programme>
+  <programme start="20201214160000 -0600" stop="20201214180000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Noticias con Magda González</title>
+  </programme>
+  <programme start="20201214180000 -0600" stop="20201214184500 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio Pedro Gamboa</title>
+  </programme>
+  <programme start="20201214184500 -0600" stop="20201214190000 -0600" channel="Canal Milenio TV">
+    <title lang="es">El Arte de la Canción</title>
+  </programme>
+  <programme start="20201214190000 -0600" stop="20201214200000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Noticias con Sergio Gómez</title>
+  </programme>
+  <programme start="20201214200000 -0600" stop="20201214204500 -0600" channel="Canal Milenio TV">
+    <title lang="es">Noticias con Elisa Alanís</title>
+  </programme>
+  <programme start="20201214204500 -0600" stop="20201214210000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Tragaluz</title>
+  </programme>
+  <programme start="20201214210000 -0600" stop="20201214213000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Noticias con Alejandro Dmgz</title>
+  </programme>
+  <programme start="20201214213000 -0600" stop="20201214214500 -0600" channel="Canal Milenio TV">
+    <title lang="es">Bote Pronto con Carlos Puig</title>
+  </programme>
+  <programme start="20201214214500 -0600" stop="20201214220000 -0600" channel="Canal Milenio TV">
+    <title lang="es">El asalto a la razón</title>
+  </programme>
+  <programme start="20201214220000 -0600" stop="20201214224500 -0600" channel="Canal Milenio TV">
+    <title lang="es">Azucena por Milenio</title>
+  </programme>
+  <programme start="20201214224500 -0600" stop="20201214230000 -0600" channel="Canal Milenio TV">
+    <title lang="es">La afición</title>
+  </programme>
+  <programme start="20201214230000 -0600" stop="20201214234500 -0600" channel="Canal Milenio TV">
+    <title lang="es">Noticias con Héctor Zamarrón</title>
+  </programme>
+  <programme start="20201214234500 -0600" stop="20201215000000 -0600" channel="Canal Milenio TV">
+    <title lang="es">El asalto a la razón</title>
+  </programme>
+  <programme start="20201215000000 -0600" stop="20201215004500 -0600" channel="Canal Milenio TV">
+    <title lang="es">Azucena por Milenio</title>
+  </programme>
+  <programme start="20201215004500 -0600" stop="20201215010000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Bote Pronto con Carlos Puig</title>
+  </programme>
+  <programme start="20201215010000 -0600" stop="20201215050000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20201215104500 -0600" stop="20201215110000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Tragaluz</title>
+  </programme>
+  <programme start="20201215110000 -0600" stop="20201215120000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201215120000 -0600" stop="20201215140000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Noticias con Josué Becerra</title>
+  </programme>
+  <programme start="20201215140000 -0600" stop="20201215160000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Noticias con Claudia Ovalle</title>
+  </programme>
+  <programme start="20201215160000 -0600" stop="20201215180000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Noticias con Magda González</title>
+  </programme>
+  <programme start="20201215180000 -0600" stop="20201215184500 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio Pedro Gamboa</title>
+  </programme>
+  <programme start="20201215184500 -0600" stop="20201215190000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio Tech</title>
+  </programme>
+  <programme start="20201215190000 -0600" stop="20201215200000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Noticias con Sergio Gómez</title>
+  </programme>
+  <programme start="20201215200000 -0600" stop="20201215204500 -0600" channel="Canal Milenio TV">
+    <title lang="es">Noticias con Elisa Alanís</title>
+  </programme>
+  <programme start="20201215204500 -0600" stop="20201215210000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio Negocios</title>
+  </programme>
+  <programme start="20201215210000 -0600" stop="20201215213000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Noticias con Alejandro Dmgz</title>
+  </programme>
+  <programme start="20201215213000 -0600" stop="20201215214500 -0600" channel="Canal Milenio TV">
+    <title lang="es">Bote Pronto con Carlos Puig</title>
+  </programme>
+  <programme start="20201215214500 -0600" stop="20201215220000 -0600" channel="Canal Milenio TV">
+    <title lang="es">El asalto a la razón</title>
+  </programme>
+  <programme start="20201215220000 -0600" stop="20201215224500 -0600" channel="Canal Milenio TV">
+    <title lang="es">Azucena por Milenio</title>
+  </programme>
+  <programme start="20201215224500 -0600" stop="20201215230000 -0600" channel="Canal Milenio TV">
+    <title lang="es">La afición</title>
+  </programme>
+  <programme start="20201215230000 -0600" stop="20201215234500 -0600" channel="Canal Milenio TV">
+    <title lang="es">Noticias con Héctor Zamarrón</title>
+  </programme>
+  <programme start="20201215234500 -0600" stop="20201216000000 -0600" channel="Canal Milenio TV">
+    <title lang="es">El asalto a la razón</title>
+  </programme>
+  <programme start="20201216104500 -0600" stop="20201216110000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio Negocios</title>
+  </programme>
+  <programme start="20201216184500 -0600" stop="20201216190000 -0600" channel="Canal Milenio TV">
+    <title lang="es">M2 con Susana Moscatel</title>
+  </programme>
+  <programme start="20201216204500 -0600" stop="20201216210000 -0600" channel="Canal Milenio TV">
+    <title lang="es">M2 con Susana Moscatel</title>
+  </programme>
+  <programme start="20201217104500 -0600" stop="20201217110000 -0600" channel="Canal Milenio TV">
+    <title lang="es">M2 con Susana Moscatel</title>
+  </programme>
+  <programme start="20201217184500 -0600" stop="20201217190000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Susana y Álvaro en Milenio</title>
+  </programme>
+  <programme start="20201217204500 -0600" stop="20201217210000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Susana y Álvaro en Milenio</title>
+  </programme>
+  <programme start="20201218104500 -0600" stop="20201218110000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Susana y Álvaro en Milenio</title>
+  </programme>
+  <programme start="20201218160000 -0600" stop="20201218180000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Noticias con Magda González</title>
+  </programme>
+  <programme start="20201218213000 -0600" stop="20201218214500 -0600" channel="Canal Milenio TV">
+    <title lang="es">En 15 con Carlos Puig</title>
+  </programme>
+  <programme start="20201218234500 -0600" stop="20201219004500 -0600" channel="Canal Milenio TV">
+    <title lang="es">El asalto a la razón</title>
+  </programme>
+  <programme start="20201219004500 -0600" stop="20201219010000 -0600" channel="Canal Milenio TV">
+    <title lang="es">En 15 con Carlos Puig</title>
+  </programme>
+  <programme start="20201219050000 -0600" stop="20201219054500 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201219054500 -0600" stop="20201219060000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Susana y Álvaro en Milenio</title>
+  </programme>
+  <programme start="20201219060000 -0600" stop="20201219064500 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201219064500 -0600" stop="20201219070000 -0600" channel="Canal Milenio TV">
+    <title lang="es">El asalto a la razón</title>
+  </programme>
+  <programme start="20201219070000 -0600" stop="20201219104500 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201219104500 -0600" stop="20201219110000 -0600" channel="Canal Milenio TV">
+    <title lang="es">M2 con Susana Moscatel</title>
+  </programme>
+  <programme start="20201219110000 -0600" stop="20201219124500 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201219124500 -0600" stop="20201219130000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio Tech</title>
+  </programme>
+  <programme start="20201219130000 -0600" stop="20201219150000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201219150000 -0600" stop="20201219170000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201219170000 -0600" stop="20201219180000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201219180000 -0600" stop="20201219190000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio Pedro Gamboa</title>
+  </programme>
+  <programme start="20201219190000 -0600" stop="20201219200000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Milenio Pedro Gamboa</title>
+  </programme>
+  <programme start="20201219200000 -0600" stop="20201219210000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Noticias Verónica Sánchez</title>
+  </programme>
+  <programme start="20201219210000 -0600" stop="20201219214500 -0600" channel="Canal Milenio TV">
+    <title lang="es">Noticias Verónica Sánchez</title>
+  </programme>
+  <programme start="20201219214500 -0600" stop="20201219220000 -0600" channel="Canal Milenio TV">
+    <title lang="es">El Arte de la Canción</title>
+  </programme>
+  <programme start="20201219220000 -0600" stop="20201219230000 -0600" channel="Canal Milenio TV">
+    <title lang="es">Noticias con Erik Rocha</title>
+  </programme>
+  <programme start="20201219230000 -0600" stop="20201219234500 -0600" channel="Canal Milenio TV">
+    <title lang="es">Noticias con Erik Rocha</title>
+  </programme>
+  <programme start="20201219234500 -0600" stop="20201220000000 -0600" channel="Canal Milenio TV">
+    <title lang="es">El Arte de la Canción</title>
+  </programme>
+  <programme start="20201214020000 -0600" stop="20201214023000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201214023000 -0600" stop="20201214030000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201214030000 -0600" stop="20201214033000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201214033000 -0600" stop="20201214040000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201214040000 -0600" stop="20201214050000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Homenaje a Jenny Rivera</title>
+  </programme>
+  <programme start="20201214050000 -0600" stop="20201214053000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201214053000 -0600" stop="20201214060000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201214060000 -0600" stop="20201214100000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Matutino CDMX</title>
+  </programme>
+  <programme start="20201214100000 -0600" stop="20201214120000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Vivalavi</title>
+  </programme>
+  <programme start="20201214120000 -0600" stop="20201214140000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario vespertino MTY</title>
+  </programme>
+  <programme start="20201214140000 -0600" stop="20201214150000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario vespertino CDMX</title>
+  </programme>
+  <programme start="20201214150000 -0600" stop="20201214153000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Cerca de Ti CDMX</title>
+  </programme>
+  <programme start="20201214153000 -0600" stop="20201214170000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">El Chismorreo</title>
+  </programme>
+  <programme start="20201214170000 -0600" stop="20201214190000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">La Bola del 6</title>
+  </programme>
+  <programme start="20201214190000 -0600" stop="20201214200000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Nocturno CDMX</title>
+  </programme>
+  <programme start="20201214200000 -0600" stop="20201214210000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Nocturno Monterrey</title>
+  </programme>
+  <programme start="20201214210000 -0600" stop="20201214213000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">MD MTY</title>
+  </programme>
+  <programme start="20201214213000 -0600" stop="20201214223000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Las Aparicio</title>
+  </programme>
+  <programme start="20201214223000 -0600" stop="20201215000000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Es show</title>
+  </programme>
+  <programme start="20201215000000 -0600" stop="20201215010000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Es show</title>
+  </programme>
+  <programme start="20201215010000 -0600" stop="20201215020000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">El Chiringuito</title>
+  </programme>
+  <programme start="20201215020000 -0600" stop="20201215023000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201215023000 -0600" stop="20201215030000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201215030000 -0600" stop="20201215033000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201215033000 -0600" stop="20201215040000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201215040000 -0600" stop="20201215050000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">El Chismorreo Repetición</title>
+  </programme>
+  <programme start="20201215050000 -0600" stop="20201215053000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201215053000 -0600" stop="20201215060000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201215060000 -0600" stop="20201215100000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Matutino CDMX</title>
+  </programme>
+  <programme start="20201215100000 -0600" stop="20201215120000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Vivalavi</title>
+  </programme>
+  <programme start="20201215120000 -0600" stop="20201215140000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario vespertino MTY</title>
+  </programme>
+  <programme start="20201215140000 -0600" stop="20201215150000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario vespertino CDMX</title>
+  </programme>
+  <programme start="20201215150000 -0600" stop="20201215153000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Cerca de Ti CDMX</title>
+  </programme>
+  <programme start="20201215153000 -0600" stop="20201215170000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">El Chismorreo</title>
+  </programme>
+  <programme start="20201215170000 -0600" stop="20201215190000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">La Bola del 6</title>
+  </programme>
+  <programme start="20201215190000 -0600" stop="20201215200000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Nocturno CDMX</title>
+  </programme>
+  <programme start="20201215200000 -0600" stop="20201215210000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Nocturno Monterrey</title>
+  </programme>
+  <programme start="20201215210000 -0600" stop="20201215213000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">MD MTY</title>
+  </programme>
+  <programme start="20201215213000 -0600" stop="20201215223000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Las Aparicio</title>
+  </programme>
+  <programme start="20201215223000 -0600" stop="20201216000000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Es show</title>
+  </programme>
+  <programme start="20201216223000 -0600" stop="20201217000000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Adrián Marcelo presenta</title>
+  </programme>
+  <programme start="20201217000000 -0600" stop="20201217010000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Adrián Marcelo presenta</title>
+  </programme>
+  <programme start="20201217223000 -0600" stop="20201218000000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">SNSerio</title>
+  </programme>
+  <programme start="20201218000000 -0600" stop="20201218010000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">SNSerio</title>
+  </programme>
+  <programme start="20201218223000 -0600" stop="20201218233000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Adivigana</title>
+  </programme>
+  <programme start="20201218233000 -0600" stop="20201219000000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Es Show, el musical</title>
+  </programme>
+  <programme start="20201219000000 -0600" stop="20201219010000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Es Show, el musical</title>
+  </programme>
+  <programme start="20201219010000 -0600" stop="20201219020000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Buenas Noches Don Fematt</title>
+  </programme>
+  <programme start="20201219060000 -0600" stop="20201219070000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Adivigana Repetición</title>
+  </programme>
+  <programme start="20201219070000 -0600" stop="20201219100000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Matutino CDMX</title>
+  </programme>
+  <programme start="20201219120000 -0600" stop="20201219140000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">TD Vespertino FS CDMX</title>
+  </programme>
+  <programme start="20201219140000 -0600" stop="20201219150000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Fútbol al Día</title>
+  </programme>
+  <programme start="20201219150000 -0600" stop="20201219160000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Conferencia de Prensa N.L</title>
+  </programme>
+  <programme start="20201219160000 -0600" stop="20201219170000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Homenaje Especial parte 1</title>
+  </programme>
+  <programme start="20201219170000 -0600" stop="20201219180000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">El Rebote de la Bola del 6</title>
+  </programme>
+  <programme start="20201219180000 -0600" stop="20201219190000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Adivigana Repetición</title>
+  </programme>
+  <programme start="20201219190000 -0600" stop="20201219210000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario CDMX</title>
+  </programme>
+  <programme start="20201219210000 -0600" stop="20201219220000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Dame Dembow</title>
+  </programme>
+  <programme start="20201219220000 -0600" stop="20201220000000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Desvelados</title>
+  </programme>
+</tv>
